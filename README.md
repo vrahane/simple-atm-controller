@@ -5,9 +5,9 @@ CONTENTS OF THIS FILE
 ---------------------
 
  * Introduction
+ * Test Cases
+ * To Do
  * Requirements
- * Installation
- * Configuration
  * Maintainers
 
 
