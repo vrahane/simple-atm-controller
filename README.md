@@ -25,6 +25,7 @@ TEST CASES
 
  * This code was tested using built in test cases, the output for for the particular test case should be as follows:
 
+```
   $python atm_controller.py
    TEST CASE 0: Empty ATM: PASS
    TEST CASE 1: Valid ATM: PASS
@@ -33,6 +34,7 @@ TEST CASES
    TEST CASE 4: Incorrect Account Number: PASS
    TEST CASE 5: Cash bin overflow: PASS
    TEST CASE 6: Exit: PASS
+```
 
  * The test cases are defined in the code, so, if running any new test case is required, please make changes to the code accordingly
 
